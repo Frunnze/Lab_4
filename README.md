@@ -2,7 +2,7 @@
 
 Using polymorphism principles:
 
-1. Virtual function: I implemented the Dynamic polymorphism for “introduce_yourself()” method from the superclass “person” with the child classes “customer” and “employee”. Thus, I have changed this method in a specific way for the child classes, and, I defined the pointers of the “person”superclass for each defined object of the child classes.
+1. Virtual function: I implemented the Dynamic polymorphism for “introduce_yourself()” method from the superclass “person” with the child classes “customer” and “employee”. Thus, I have changed this method in a specific way for the child classes, and, I defined the pointers of the “person” superclass for each defined object of the child classes.
 
 2. Method overriding: Also, in “machine” superclass, we have the method “show_options()”, which is used in its specific way for the “atm” and “queue_ticket_machine” child classes to show the corresponding options.
 
