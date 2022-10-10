@@ -6,7 +6,7 @@ Using polymorphism principles:
 
 2. Method overriding: Also, in “machine” superclass, we have the method “show_options()”, which is used in its specific way for the “atm” and “queue_ticket_machine” child classes to show the corresponding options.
 
-3. Method overriding: For the “department” superclass, we have “tell_options()” method which we can use the child classes in different ways. For instance, we can use more options for each class, or we can add some description to them in a specific way.
+3. Method overriding: For the “department” superclass, we have “tell_options()” method which we can use for the child classes in different ways. For instance, we can use more options for each class, or we can add some description to them in a specific way.
 
 
 
@@ -22,4 +22,4 @@ Creating scenarios of the simulation:
 
 4. The second and third option is also included in the first option. Thus, the reception indicates that in order to do the task you have to go to the ATM or currency exchange window.
 
-5. So, the first option, is made up of multiple options (purposes) at the bank that the customer might have. He might want to change some money, to transfer some money and so on. 
+5. So, the first option, is made up of multiple options (purposes) at the bank that the customer might have. He might want to change some money, to transfer some money and so on.
