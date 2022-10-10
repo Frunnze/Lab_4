@@ -9,6 +9,7 @@ Using polymorphism principles:
 3. Method overriding: For the “department” superclass, we have “tell_options()” method which we can use the child classes in different ways. For instance, we can use more options for each class, or we can add some description to them in a specific way.
 
 
+
 Creating scenarios of the simulation:
 1. The scenarios are based on the customer’s decision (purpose) at the bank.
 
