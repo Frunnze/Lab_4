@@ -10,7 +10,7 @@ Using polymorphism principles:
 
 
 
-Creating scenarios of the simulation:
+/nCreating scenarios of the simulation:
 1. The scenarios are based on the customer’s decision (purpose) at the bank.
 
 2. When the customer enters the bank s/he has three choices:
