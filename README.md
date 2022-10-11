@@ -1,4 +1,4 @@
-# Lab_4
+# Lab_4: Bank simulation
 
 Using polymorphism principles:
 
